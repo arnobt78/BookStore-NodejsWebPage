@@ -1,7 +1,7 @@
 
 # Book-Store
 
-BookStore is a simple demo web application where one can upload the book in the store by choosing the genre and also delete it from the DataBase.
+BookStore is a basic sample web application that allows users to add books and remove them from the database by selecting the genre.
 
 # Keywords
 
